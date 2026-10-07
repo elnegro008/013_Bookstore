@@ -411,6 +411,7 @@ public class AdminBooks_jsp extends HttpJspBase {
 //
 
 static final String sFileName = "AdminBooks.jsp";
+static final String password = "123456";
               
 
 
